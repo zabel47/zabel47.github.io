@@ -9,3 +9,6 @@ Bilbo Beutlin ist ein „angesehener und achtbarer“ Hobbit und lebt unauffäll
 * ist ein Freund von Gandalf
 * kennt das Auenland
 * ist schon sehr alt
+
+Der Leitspruch von Bilbo ist:
+> sei wachsam und vegesse nicht wo du herkommst. Finde neue Freunde im Auenland
