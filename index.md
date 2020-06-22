@@ -12,3 +12,6 @@ Bilbo Beutlin ist ein „angesehener und achtbarer“ Hobbit und lebt unauffäll
 
 Der Leitspruch von Bilbo ist:
 > sei wachsam und vegesse nicht wo du herkommst. Finde neue Freunde im Auenland
+
+
+<img src="http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/th/2/2d/200px-Bilbo_beutlin_by_bente_schlick.jpg"/>
